@@ -41,7 +41,6 @@ Tengo 25 años y estoy orgullosamente graduado de [Soy Henry](https://www.soyhen
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" alt="git" /></a>
 <a href="https://res.cloudinary.com/practicaldev/image/fetch/s--vrvqSDHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s15ubgod56c7butyt7eu.jpg" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vrvqSDHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s15ubgod56c7butyt7eu.jpg" height="50" alt="vscode" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b95257ba86846063405dc5d8b646de1f22f2a4d3e54e&rid=giphy.gif&ct=s" height="50" alt="git" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" height="50" alt="git" /></a>
 <a href="https://cdn-icons-png.flaticon.com/512/603/603156.png" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/603/603156.png" height="50" alt="vscode" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="45" alt="vscode" /></a>
 
